@@ -33,8 +33,6 @@ public class Task {
 	}
 
 	public void setTaskID(String taskID) {
-		// int taskIdInt = Integer.parseInt(taskID);
-		// this.taskID = taskIdInt;
 		this.taskID=taskID;
 	}
 
